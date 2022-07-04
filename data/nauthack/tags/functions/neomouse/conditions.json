@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"nauthack:neomouse/conditions/nautguns",
+		"nauthack:neomouse/conditions/nautguns_grenade",
+		"nauthack:neomouse/conditions/nautguns_smoke",
+		"nauthack:neomouse/conditions/nautguns_dagger"
+	]
+}

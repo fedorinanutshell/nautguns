@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"nauthack:rmbcheck/condition/nautguns",
+		"nauthack:rmbcheck/condition/nautguns_grenade",
+		"nauthack:rmbcheck/condition/nautguns_smoke",
+		"nauthack:rmbcheck/condition/nautguns_dagger"
+	]
+}

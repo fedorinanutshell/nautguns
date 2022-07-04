@@ -1,0 +1,2 @@
+execute if data storage nauthack:nauthack neoray.args.nautguns_dagger unless block ~ ~ ~ #nauthack:non_solid run scoreboard players set neoray_move nautmath_var 0
+execute if data storage nauthack:nauthack neoray.args.nautguns_dagger positioned ~ ~-1.5 ~ if entity @e[type = !#nauthack:nocoll, distance = ..0.75, team = !nautcore_nocoll] run scoreboard players set neoray_move nautmath_var 0

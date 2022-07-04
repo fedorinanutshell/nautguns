@@ -1,0 +1,2 @@
+execute if data storage nauthack:nauthack neomouse.id.nautguns_smoke at @s run function nauthack:nautguns/smoke
+execute if data storage nauthack:nauthack neomouse.id.nautguns_smoke at @s run clear @s minecraft:ink_sac{Tags: ["nautguns_smoke"]} 1

@@ -1,0 +1,3 @@
+scoreboard objectives remove nautguns_on
+scoreboard objectives remove nautguns_delay
+scoreboard objectives remove nautguns_btime

@@ -1,0 +1,7 @@
+execute if entity @s[nbt = {SelectedItem: {tag: {nautguns: {fire_rate: 1}}}}] run function nauthack:nautguns/shoot
+execute if entity @s[nbt = {SelectedItem: {tag: {nautguns: {fire_rate: 2}}}}] if score nauttime_odd nautmath_var matches 0 run function nauthack:nautguns/shoot
+execute if entity @s[nbt = {SelectedItem: {tag: {nautguns: {fire_rate: 4}}}}] if score nauttime_odd nautmath_var matches 0 if score nauttime_odd_odd nautmath_var matches 0 run function nauthack:nautguns/shoot
+execute if entity @s[nbt = {SelectedItem: {tag: {nautguns: {fire_rate: 5}}}}] if score nauttime_tick nautmath_var matches 0 run function nauthack:nautguns/shoot
+execute if entity @s[nbt = {SelectedItem: {tag: {nautguns: {fire_rate: 8}}}}] if score nauttime_odd nautmath_var matches 0 if score nauttime_odd_odd nautmath_var matches 0 if score nauttime_odd_odd_odd nautmath_var matches 0 run function nauthack:nautguns/shoot
+execute if entity @s[nbt = {SelectedItem: {tag: {nautguns: {fire_rate: 10}}}}] if score nauttime_tick nautmath_var matches 0 if score nauttime_odd nautmath_var matches 0 run function nauthack:nautguns/shoot
+execute if entity @s[nbt = {SelectedItem: {tag: {nautguns: {fire_rate: 20}}}}] if score nauttime_tick nautmath_var matches 0 if score nauttime_5tick nautmath_var matches 0 run function nauthack:nautguns/shoot

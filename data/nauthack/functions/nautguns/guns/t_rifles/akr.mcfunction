@@ -1,0 +1,1 @@
+give @s minecraft:iron_hoe{Tags: ["nautguns"], display: {Name: '{"text": "AKR", "italic": false}'}, nautguns: {bullet_size: -40, recharge_size: 20, ray: {damage_1: true}, accuracy: 3, automatic: true, fire_rate: 3, range: 2, freedom: 2}}

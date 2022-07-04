@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"nauthack:neoray/endings/nautguns_base",
+		"nauthack:neoray/endings/nautguns_dagger"
+	]
+}

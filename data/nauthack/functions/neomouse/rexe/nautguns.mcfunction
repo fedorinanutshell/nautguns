@@ -1,0 +1,4 @@
+execute if data storage nauthack:nauthack neomouse.id.nautguns if score @s nautguns_on matches 0 run scoreboard players set @s nautguns_on 2
+execute if data storage nauthack:nauthack neomouse.id.nautguns if score @s nautguns_on matches 1 if entity @s[nbt = {SelectedItem: {tag: {nautguns: {automatic: true}}}}] run scoreboard players set @s nautguns_on 0
+execute if data storage nauthack:nauthack neomouse.id.nautguns if score @s nautguns_on matches 1 if entity @s[nbt = {SelectedItem: {tag: {nautguns: {semi_automatic: true}}}}] if predicate nauthack:entity/flags/sneaking run scoreboard players set @s nautguns_on 0
+execute if data storage nauthack:nauthack neomouse.id.nautguns if score @s nautguns_on matches 2 run scoreboard players set @s nautguns_on 1

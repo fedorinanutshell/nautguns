@@ -1,0 +1,2 @@
+execute if entity @s[nbt={SelectedItem: {id: "minecraft:tnt", tag: {Tags: ["nautguns_grenade"]}}}] run scoreboard players set neomouse nautmath_var 1
+execute if entity @s[nbt={SelectedItem: {id: "minecraft:tnt", tag: {Tags: ["nautguns_grenade"]}}}] run data modify storage nauthack:nauthack neomouse.id.nautguns_grenade set value true

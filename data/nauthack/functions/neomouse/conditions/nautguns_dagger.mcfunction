@@ -1,0 +1,2 @@
+execute if entity @s[nbt={SelectedItem: {id: "minecraft:iron_sword", tag: {Tags: ["nautguns_dagger"]}}}] unless predicate nauthack:entity/flags/sneaking run scoreboard players set neomouse nautmath_var 1
+execute if entity @s[nbt={SelectedItem: {id: "minecraft:iron_sword", tag: {Tags: ["nautguns_dagger"]}}}] unless predicate nauthack:entity/flags/sneaking run data modify storage nauthack:nauthack neomouse.id.nautguns_dagger set value true

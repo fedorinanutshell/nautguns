@@ -1,0 +1,2 @@
+execute if data storage nauthack:nauthack neomouse.id.nautguns_grenade at @s run function nauthack:nautguns/grenade
+execute if data storage nauthack:nauthack neomouse.id.nautguns_grenade run clear @s minecraft:tnt{Tags: ["nautguns_grenade"]} 1

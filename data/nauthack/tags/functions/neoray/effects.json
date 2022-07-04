@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"nauthack:neoray/effects/nautguns_base",
+		"nauthack:neoray/effects/nautguns_dagger"
+	]
+}

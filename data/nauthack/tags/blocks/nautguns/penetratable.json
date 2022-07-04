@@ -1,0 +1,15 @@
+{
+	"replace": false,
+	"values": [
+		"#nauthack:non_solid",
+		"#minecraft:doors",
+		"#minecraft:trapdoors",
+		"#minecraft:banners",
+		"#minecraft:leaves",
+		"#minecraft:fences",
+		"#minecraft:fence_gates",
+		"minecraft:glass",
+		"minecraft:tinted_glass",
+		"minecraft:glass_pane"
+	]
+}

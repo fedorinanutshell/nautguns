@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"nauthack:rmbcheck/exe/nautguns",
+		"nauthack:rmbcheck/exe/nautguns_grenade",
+		"nauthack:rmbcheck/exe/nautguns_smoke",
+		"nauthack:rmbcheck/exe/nautguns_dagger"
+	]
+}

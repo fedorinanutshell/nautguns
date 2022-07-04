@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"nauthack:neomouse/rexe/nautguns",
+		"nauthack:neomouse/rexe/nautguns_grenade",
+		"nauthack:neomouse/rexe/nautguns_smoke",
+		"nauthack:neomouse/rexe/nautguns_dagger"
+	]
+}

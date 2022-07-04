@@ -1,0 +1,1 @@
+execute if data storage nauthack:nauthack neomouse.id.nautguns_dagger at @s run function nauthack:neoray/nautguns_dagger
